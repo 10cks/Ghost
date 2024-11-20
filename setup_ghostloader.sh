@@ -96,4 +96,4 @@ else
 fi
 
 print_status "所有组件安装完成!"
-print_status "下面运行GhostLoader构建脚本"
+print_status "下面运行：python3 build.py -i shellcode.bin"
